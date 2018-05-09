@@ -1,1 +1,3 @@
 # clinicageral
+class main{
+}
